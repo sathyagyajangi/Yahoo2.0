@@ -1,0 +1,17 @@
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\yahoo2.0.dll
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\yahoo2.0.pdb
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\WebDriver.dll
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\bin\Debug\WebDriver.xml
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\obj\Debug\yahoo2.0.csprojAssemblyReference.cache
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\obj\Debug\yahoo2.0.csproj.CoreCompileInputs.cache
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\obj\Debug\yahoo2.0.csproj.CopyComplete
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\obj\Debug\yahoo2.0.dll
+C:\Users\shaik\source\repos\yahoo2.0\yahoo2.0\obj\Debug\yahoo2.0.pdb
